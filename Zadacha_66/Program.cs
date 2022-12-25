@@ -19,4 +19,3 @@ int Sum(int N, int M)
     }
     else return sum = N;
 }
-
