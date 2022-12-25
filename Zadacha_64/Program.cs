@@ -4,9 +4,6 @@ int N = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Натуральные числа от {N} до 1 равна ");
 Numbers(N);
 
-
-
-
 void Numbers(int N)
 {
     if (N == 0) return;
